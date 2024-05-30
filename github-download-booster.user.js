@@ -3,7 +3,7 @@
 // @version      2.5.24
 // @author       Edhic1
 // @description  High-speed download of Git Clone/SSH, Release, Raw, Code(ZIP) and other files (Based on public welfare), project list file quick download (☁)
-// @license      MIT License
+// @license      MIT
 // @match        *://github.com/*
 // @match        *://hub.incept.pw/*
 // @match        *://hub.nuaa.cf/*
