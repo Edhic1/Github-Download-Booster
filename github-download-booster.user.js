@@ -19,7 +19,7 @@
 // @grant        GM_notification
 // @grant        window.onurlchange
 // @sandbox      JavaScript
-// @license      GPL-3.0 License
+// @license      MIT License
 // @run-at       document-end
 // @supportURL   https://github.com/Edhic1/Github-Download-Booster
 // @homepageURL  https://github.com/Edhic1/Github-Download-Booster
