@@ -9,6 +9,11 @@ This Tampermonkey script is part of a userscript that enhances GitHub's function
 
 ## Features
 
+<div style="display: flex">
+  <img width="300" alt="download2" src="https://github.com/Edhic1/Github-Download-Booster/assets/106634745/2d2a8c75-23ef-4838-8e61-6a52b3c51d37">
+  <img width="836" alt="download3" src="https://github.com/Edhic1/Github-Download-Booster/assets/106634745/4ed89fe9-4440-41d1-8dc5-0f813ba4e95e">
+</div>
+
 * **One-click Downloads:**  Adds a prominent "Download ZIP" button to repository pages.
 * **Customizable:** Optionally configure the download filename format.
 * **Lightweight:**  Minimal impact on browser performance.
