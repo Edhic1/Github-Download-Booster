@@ -40,5 +40,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 
-This script is released under the GPL-3.0 License.
+This script is released under the MIT License.
 
