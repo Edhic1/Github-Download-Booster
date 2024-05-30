@@ -1,8 +1,11 @@
 # GitHub Download Booster
 
+[![GitHub license](https://img.shields.io/github/license/Edhic1/Github-Download-Booster.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/Edhic1/Github-Download-Booster/)
+[![Version](https://img.shields.io/badge/Version-2.5.24-blue.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/Edhic1/Github-Download-Booster/)
+
 ## Overview
 
-This Tampermonkey script enhances your download experience on GitHub by providing direct download links for repositories.  It eliminates the need to navigate through multiple pages or use the GitHub CLI.
+This Tampermonkey script is part of a userscript that enhances GitHub's functionality by providing alternative download and clone sources for repositories. These sources are globally distributed 🌍 and provided by various entities. The script aims to improve the speed 🚀 and reliability 🔒 of operations by allowing users to choose a geographically close or otherwise suitable source. Some sources also offer caching for faster subsequent operations. Please note that some sources are currently inactive due to various issues. ⚠️
 
 ## Features
 
@@ -24,7 +27,7 @@ By default, the script generates filenames in the format `[repo-name]-[branch-na
 
 ## Support
 
-If you encounter issues or have suggestions, please open an issue on the GitHub repository [invalid URL removed].
+If you encounter issues or have suggestions, please open an issue on the GitHub repository.
 
 ## Contributing
 
@@ -32,5 +35,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## License
 
-This script is released under the MIT License.
+This script is released under the GPL-3.0 License.
 
