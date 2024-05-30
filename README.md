@@ -1,6 +1,6 @@
 # GitHub Download Booster
 
-[![GitHub license](https://img.shields.io/github/license/Edhic1/Github-Download-Booster.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/Edhic1/Github-Download-Booster/)
+[![GitHub license](https://img.shields.io/badge/Licence-MIT-yellow.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/Edhic1/Github-Download-Booster/)
 [![Version](https://img.shields.io/badge/Version-2.5.24-blue.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/Edhic1/Github-Download-Booster/)
 
 ## Overview
