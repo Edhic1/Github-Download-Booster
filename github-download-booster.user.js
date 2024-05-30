@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Github Enhancement - High Speed Download
+// @name         Github Download Booster
 // @version      2.5.24
 // @author       Edhic1
 // @description  High-speed download of Git Clone/SSH, Release, Raw, Code(ZIP) and other files (Based on public welfare), project list file quick download (☁)
