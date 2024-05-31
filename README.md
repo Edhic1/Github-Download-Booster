@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/Licence-MIT-yellow.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/Edhic1/Github-Download-Booster/)
 [![Version](https://img.shields.io/badge/Version-2.5.24-blue.svg?style=flat-square&color=4285dd&logo=github)](https://github.com/Edhic1/Github-Download-Booster/)
-[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frunkit.io%2Fmysticflute%2Fuserscripts%2Fbranches%2Fmaster%2Fopenuserjs%2FEdhic1%2FGithub_Download_Booster&query=%24.version&prefix=V&label=OpenUserJS&color=Yellow)
+[![OpenUserJS Installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Frunkit.io%2FEdhic1%2Fbadge%2Fbranches%2Fmaster%2Fopenuserjs%2FEdhic1%2FGithub_Download_Booster&query=%24.version&prefix=V&label=OpenUserJS&color=Yellow)
 ](https://openuserjs.org/scripts/Edhic1/Github_Download_Booster)
 
 ## Overview
